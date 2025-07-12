@@ -1,4 +1,4 @@
-# Medical App v3
+# Medical App 
 
 A modern medical application built with Next.js for managing patient records, appointments, and medical data.
 
