@@ -1,4 +1,4 @@
-# Medical App v3
+# Medical App 
 
 A modern medical application built with Next.js for managing patient records, appointments, and medical data.
 
@@ -29,7 +29,7 @@ git clone https://github.com/yourusername/medical-app-v3.git
 2. Navigate to the project directory:
 
 ```bash
-cd medical-app-v3
+cd your project directory
 ```
 
 3. Install dependencies:
